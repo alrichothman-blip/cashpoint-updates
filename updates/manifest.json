@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1791790542,\"publishedAt\":\"2026-10-12T07:39:09.719Z\",\"minAppVersionCode\":2,\"notes\":\"Mise a jour automatique de l'application et affichage exact des soldes\",\"bundle\":{\"url\":\"bundle-1791790542.bin\",\"sha256\":\"ab13ab4dd3805248a1a97eff5e5abfa27fd6c343a38d47008e23d77920c4dc4a\",\"size\":1082846},\"apk\":null}",
-  "signature": "dOk8A4BdxUts0+LraGhrFovI47fThclWM1EpilXwrmm6sv0jR852+1/M6RpXSEaCvDksZ7FHwpqyboCTjZoqRg=="
+  "payload": "{\"bundleVersion\":1791791349,\"publishedAt\":\"2026-10-12T07:49:18.614Z\",\"minAppVersionCode\":2,\"notes\":\"Telechargement de l'APK visible avec bouton Installer\",\"bundle\":{\"url\":\"bundle-1791791349.bin\",\"sha256\":\"13baac915efe6b905fbc2ec238b97d10b2102fed7a3a606258e1197fe9b7ac6b\",\"size\":1082819},\"apk\":null}",
+  "signature": "vqkRCTjs6iF28GPw2serjxi4vlqjeuHhD6JgtVI111uVojtqGlqfAdBPayIzbOh0LsD2MaDS/bGRNb91hXtINw=="
 }
