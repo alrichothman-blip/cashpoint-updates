@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1791794715,\"publishedAt\":\"2026-10-12T08:45:24.627Z\",\"minAppVersionCode\":2,\"notes\":\"MISE A JOUR\",\"bundle\":{\"url\":\"bundle-1791794715.bin\",\"sha256\":\"199a03a4326ec69bd1d1daefeaa92170b759faeee2f75eaa02f00450c2dac20e\",\"size\":1084429},\"apk\":null}",
-  "signature": "cb+Ju/dMU9r6LJNLYZjZ9ejEWmeSLVkATsnqwQW5qG3GJoGAW0S0wefhujwbKEZT/ZdvlUeOmwrUgv+dj3w6UA=="
+  "payload": "{\"bundleVersion\":1791977949,\"publishedAt\":\"2026-10-14T11:39:18.585Z\",\"minAppVersionCode\":2,\"notes\":\"mise à jour\",\"bundle\":{\"url\":\"bundle-1791977949.bin\",\"sha256\":\"5dc1118898ca3de2e30120152193ed319dcd76b3c824832768dd6abc21d35592\",\"size\":1284779},\"apk\":null}",
+  "signature": "iReb+2OXHOvYvM+6uUtq+yt+XBWCSwA6e3gXSb3V9VmvfnjWM8ZSCzZZPr8Zk+ij/gPI1X+W7HQPAdLRK7jnrQ=="
 }
