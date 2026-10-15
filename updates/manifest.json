@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792069989,\"publishedAt\":\"2026-10-15T13:13:19.762Z\",\"minAppVersionCode\":2,\"notes\":\"rectification\",\"bundle\":{\"url\":\"bundle-1792069989.bin\",\"sha256\":\"df5665f4420e43e1ab90403aeb6048bc1ef3d28d7bff0a35f50de0049d98c296\",\"size\":1259351},\"apk\":null}",
-  "signature": "3A0di/PBddgY7O68EmmMmmL+Ia3wjtLSF7MKRcKUrYpPE1JkltDR7KscRGIk5sOsTlx7T5+zPpG9NWsTB0Vu1g=="
+  "payload": "{\"bundleVersion\":1792072667,\"publishedAt\":\"2026-10-15T13:58:01.830Z\",\"minAppVersionCode\":2,\"notes\":\"Detail du retrait en recu, entete du detail du depot, connexion mobile ajustee\",\"bundle\":{\"url\":\"bundle-1792072667.bin\",\"sha256\":\"1b4171462d10ec20a36863860014f688809bf5e04ead923ae09991b8e7c1fdb5\",\"size\":1261485},\"apk\":null}",
+  "signature": "TT3JRe2UDKI9/PLHQgDEAC+QNjj6Bq0NTGa6Pf8A9zGWA1rXiV9YhrL7+dCRX+rad6tZVoSk2nqPrXPUFnnkWw=="
 }
