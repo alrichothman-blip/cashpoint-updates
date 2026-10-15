@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792053777,\"publishedAt\":\"2026-10-15T08:43:04.679Z\",\"minAppVersionCode\":2,\"notes\":\"les tester de securités\",\"bundle\":{\"url\":\"bundle-1792053777.bin\",\"sha256\":\"97c57bed65b42ecbb38d4fbd7bbe4c073307f47d13a876248700fa2c38dec9b2\",\"size\":1302090},\"apk\":null}",
-  "signature": "rAJ5fnlUaXFVZsZd/OxJuSw50VRGG5d8+DXZzXCj9A1IJUPJrtmufqlJihepGzDiNuzBJP7eNkp92eM2arXYgQ=="
+  "payload": "{\"bundleVersion\":1792068693,\"publishedAt\":\"2026-10-15T12:51:43.770Z\",\"minAppVersionCode\":2,\"notes\":\"nouvelle login mobile\",\"bundle\":{\"url\":\"bundle-1792068693.bin\",\"sha256\":\"f9333a1ef91939d145bf65143b426ba74b9763d74465eff6294bb3e07af889d1\",\"size\":1257708},\"apk\":null}",
+  "signature": "x92BY30i0BmKcdSoLkpzwi8Dlsgv2fUMdUBmoaBHM4nN4kOPibHH70MCVoTckOsg2cbCBXXLXYncBOO7BC4PNA=="
 }
