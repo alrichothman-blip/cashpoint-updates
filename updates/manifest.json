@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792072667,\"publishedAt\":\"2026-10-15T13:58:01.830Z\",\"minAppVersionCode\":2,\"notes\":\"Detail du retrait en recu, entete du detail du depot, connexion mobile ajustee\",\"bundle\":{\"url\":\"bundle-1792072667.bin\",\"sha256\":\"1b4171462d10ec20a36863860014f688809bf5e04ead923ae09991b8e7c1fdb5\",\"size\":1261485},\"apk\":null}",
-  "signature": "TT3JRe2UDKI9/PLHQgDEAC+QNjj6Bq0NTGa6Pf8A9zGWA1rXiV9YhrL7+dCRX+rad6tZVoSk2nqPrXPUFnnkWw=="
+  "payload": "{\"bundleVersion\":1792073193,\"publishedAt\":\"2026-10-15T14:06:43.223Z\",\"minAppVersionCode\":2,\"notes\":\"Detail des transactions en recu (depot, retrait, e-Recharge), sans animation a l'ouverture\",\"bundle\":{\"url\":\"bundle-1792073193.bin\",\"sha256\":\"4ec7def2cef1b72ebdad3fe686b2aa268d9c36d7d0d30f58b565e3e3888563b2\",\"size\":1257974},\"apk\":null}",
+  "signature": "n1S+7D3vu3h1rwF7r098UQEyj2pKfdopeTQ3y5PLs6/hCreRDtAgW3xu8mS8eLLbJfSmjOjMFEUIO+uS1S9JOw=="
 }
