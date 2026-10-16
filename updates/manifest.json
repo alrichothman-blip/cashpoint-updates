@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792155164,\"publishedAt\":\"2026-10-16T12:52:54.825Z\",\"minAppVersionCode\":2,\"notes\":\"Gestion des soldes : carte du solde total\",\"bundle\":{\"url\":\"bundle-1792155164.bin\",\"sha256\":\"7aff010791f3920b97907244d3ee4200280d53a87bb86704bb3f59329c57e1f3\",\"size\":1222580},\"apk\":null}",
-  "signature": "IKzop4A6xLX4rVlazva/MP9iRlzK11cCHJlMMCuRnnUt9CbWI4fvxvYrcmN1QByg2YyN5bOXnQ2xL2EH69E8PA=="
+  "payload": "{\"bundleVersion\":1792158264,\"publishedAt\":\"2026-10-16T13:44:32.286Z\",\"minAppVersionCode\":2,\"notes\":\"Profil : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792158264.bin\",\"sha256\":\"cbedb6fb10782bfabebee1baac4e2a71c13b3835409a0a192094a77aea9ac431\",\"size\":1223982},\"apk\":null}",
+  "signature": "OWMGklpL5mN1mj+JDK3CSfnclc2hOGGx1nGjfIMD/dwwitdETw391s/uisPJeVk1ZbEoq7Kuh0Ni3CYdTvhcew=="
 }
