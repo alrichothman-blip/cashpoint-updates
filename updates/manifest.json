@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792140176,\"publishedAt\":\"2026-10-16T08:43:07.359Z\",\"minAppVersionCode\":2,\"notes\":\"Gestion des puces : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792140176.bin\",\"sha256\":\"af6ae2ece2c08a86ba3ffdcfa788ba3e31bf5c3a389d8c96bb47c9f75a879fa4\",\"size\":1216433},\"apk\":null}",
-  "signature": "UI/3GAmV91MU921jF01tBXcHv1zUVHCIAqlGXNVLt5V9eak+j0KFTRmBTTZImmvCYtInSryeatn0AYbRcleaPg=="
+  "payload": "{\"bundleVersion\":1792150586,\"publishedAt\":\"2026-10-16T11:36:36.807Z\",\"minAppVersionCode\":2,\"notes\":\"Gestion des soldes : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792150586.bin\",\"sha256\":\"63fb8b8da2da8a022127646420d5155fcf7dd8a52c926e4568f6c6944eb6efd5\",\"size\":1220113},\"apk\":null}",
+  "signature": "6p/cLr/W6O9LxwQsMcsuPs8Q629CxfwBJmf2rUJ4/F8zw7SeCcEY76TZtAy+UkNFqfvY4nBmPPd0X/d79/GJLQ=="
 }
