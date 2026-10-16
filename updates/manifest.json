@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792135650,\"publishedAt\":\"2026-10-16T07:27:41.074Z\",\"minAppVersionCode\":2,\"notes\":\"Recu de transaction : glissement entre les recus, logo operateur, montant total\",\"bundle\":{\"url\":\"bundle-1792135650.bin\",\"sha256\":\"317383c0745ac1a745bc8f5db3afe0bb68dde844f12455e73043193b997dcf3b\",\"size\":1212404},\"apk\":null}",
-  "signature": "/oVM/1gsamFCQB1xsZgRNgOqm01k1eusO/zX7bcFnVzFYw84o75iRPLFKULeuSK1pIFqJT9NkAo1Tmi+RMXCzQ=="
+  "payload": "{\"bundleVersion\":1792140176,\"publishedAt\":\"2026-10-16T08:43:07.359Z\",\"minAppVersionCode\":2,\"notes\":\"Gestion des puces : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792140176.bin\",\"sha256\":\"af6ae2ece2c08a86ba3ffdcfa788ba3e31bf5c3a389d8c96bb47c9f75a879fa4\",\"size\":1216433},\"apk\":null}",
+  "signature": "UI/3GAmV91MU921jF01tBXcHv1zUVHCIAqlGXNVLt5V9eak+j0KFTRmBTTZImmvCYtInSryeatn0AYbRcleaPg=="
 }
