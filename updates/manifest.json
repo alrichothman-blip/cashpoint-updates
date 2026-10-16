@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792150586,\"publishedAt\":\"2026-10-16T11:36:36.807Z\",\"minAppVersionCode\":2,\"notes\":\"Gestion des soldes : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792150586.bin\",\"sha256\":\"63fb8b8da2da8a022127646420d5155fcf7dd8a52c926e4568f6c6944eb6efd5\",\"size\":1220113},\"apk\":null}",
-  "signature": "6p/cLr/W6O9LxwQsMcsuPs8Q629CxfwBJmf2rUJ4/F8zw7SeCcEY76TZtAy+UkNFqfvY4nBmPPd0X/d79/GJLQ=="
+  "payload": "{\"bundleVersion\":1792152650,\"publishedAt\":\"2026-10-16T12:11:01.759Z\",\"minAppVersionCode\":2,\"notes\":\"Codes secrets operateurs : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792152650.bin\",\"sha256\":\"cb255cbdfc85f12e6ee560ecc4abd96089e706dacd7580e60458087919b9cda7\",\"size\":1222837},\"apk\":null}",
+  "signature": "iRF9QHkPajZfOCGRjP3wFlbyWyrqm64IWO+SupVdC0NZP+Ude6YrQkLvrfepmWwqLSCXjs+oueoi8Cx+HWZd3g=="
 }
