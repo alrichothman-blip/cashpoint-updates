@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792073193,\"publishedAt\":\"2026-10-15T14:06:43.223Z\",\"minAppVersionCode\":2,\"notes\":\"Detail des transactions en recu (depot, retrait, e-Recharge), sans animation a l'ouverture\",\"bundle\":{\"url\":\"bundle-1792073193.bin\",\"sha256\":\"4ec7def2cef1b72ebdad3fe686b2aa268d9c36d7d0d30f58b565e3e3888563b2\",\"size\":1257974},\"apk\":null}",
-  "signature": "n1S+7D3vu3h1rwF7r098UQEyj2pKfdopeTQ3y5PLs6/hCreRDtAgW3xu8mS8eLLbJfSmjOjMFEUIO+uS1S9JOw=="
+  "payload": "{\"bundleVersion\":1792132302,\"publishedAt\":\"2026-10-16T06:31:50.216Z\",\"minAppVersionCode\":2,\"notes\":\"Page d'accueil plus rapide, logos operateurs allégés\",\"bundle\":{\"url\":\"bundle-1792132302.bin\",\"sha256\":\"d3a8a6cbd787f481923aa565d8d83c3cf43e2f2be34584ce401ade2091c4d1ca\",\"size\":1213329},\"apk\":null}",
+  "signature": "whgM1/n9NZ1C6cNaKkMBYMzO9NEouAfeRlS1VgNn7waIdEB+M013HqWPMi7C2qDI50Rfc24i3TJJeZMYCRmkSQ=="
 }
