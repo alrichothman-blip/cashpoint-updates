@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792132302,\"publishedAt\":\"2026-10-16T06:31:50.216Z\",\"minAppVersionCode\":2,\"notes\":\"Page d'accueil plus rapide, logos operateurs allégés\",\"bundle\":{\"url\":\"bundle-1792132302.bin\",\"sha256\":\"d3a8a6cbd787f481923aa565d8d83c3cf43e2f2be34584ce401ade2091c4d1ca\",\"size\":1213329},\"apk\":null}",
-  "signature": "whgM1/n9NZ1C6cNaKkMBYMzO9NEouAfeRlS1VgNn7waIdEB+M013HqWPMi7C2qDI50Rfc24i3TJJeZMYCRmkSQ=="
+  "payload": "{\"bundleVersion\":1792134465,\"publishedAt\":\"2026-10-16T07:07:56.220Z\",\"minAppVersionCode\":2,\"notes\":\"Recu de transaction epure (retrait, depot, e-Recharge)\",\"bundle\":{\"url\":\"bundle-1792134465.bin\",\"sha256\":\"e3be8a8dfa7a9d6fca190911ffc574cbc78513197dd94d6b8d1c566e467ab31b\",\"size\":1211302},\"apk\":null}",
+  "signature": "KpN4Fp8iysc57DJIV0CRs1KLgYuw+PtLq8ef7CHdlmiTFH5IExRFWpfu3S7rcUgYRunI/gNY54zcq6fL+hG5Rg=="
 }
