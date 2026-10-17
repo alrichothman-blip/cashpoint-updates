@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792158264,\"publishedAt\":\"2026-10-16T13:44:32.286Z\",\"minAppVersionCode\":2,\"notes\":\"Profil : nouvelle presentation\",\"bundle\":{\"url\":\"bundle-1792158264.bin\",\"sha256\":\"cbedb6fb10782bfabebee1baac4e2a71c13b3835409a0a192094a77aea9ac431\",\"size\":1223982},\"apk\":null}",
-  "signature": "OWMGklpL5mN1mj+JDK3CSfnclc2hOGGx1nGjfIMD/dwwitdETw391s/uisPJeVk1ZbEoq7Kuh0Ni3CYdTvhcew=="
+  "payload": "{\"bundleVersion\":1792228320,\"publishedAt\":\"2026-10-17T09:12:08.431Z\",\"minAppVersionCode\":2,\"notes\":\"Tableau de bord : nouveau haut de page\",\"bundle\":{\"url\":\"bundle-1792228320.bin\",\"sha256\":\"0bf2f9ff2c8a0b7f58bb9e71b56411439bf139694062248add9fd5ac3f2401be\",\"size\":1224749},\"apk\":null}",
+  "signature": "hfBsK09pJLCYI4Nv7D8F7bFzjTD8zip0mq8XCAK0OQDX/PpzjcOZMbwhq+DGAzjnA/fUkL4pEkjtJjYfXU8Y6g=="
 }
