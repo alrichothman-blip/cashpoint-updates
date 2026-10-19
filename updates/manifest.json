@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792228320,\"publishedAt\":\"2026-10-17T09:12:08.431Z\",\"minAppVersionCode\":2,\"notes\":\"Tableau de bord : nouveau haut de page\",\"bundle\":{\"url\":\"bundle-1792228320.bin\",\"sha256\":\"0bf2f9ff2c8a0b7f58bb9e71b56411439bf139694062248add9fd5ac3f2401be\",\"size\":1224749},\"apk\":null}",
-  "signature": "hfBsK09pJLCYI4Nv7D8F7bFzjTD8zip0mq8XCAK0OQDX/PpzjcOZMbwhq+DGAzjnA/fUkL4pEkjtJjYfXU8Y6g=="
+  "payload": "{\"bundleVersion\":1792390864,\"publishedAt\":\"2026-10-19T06:21:14.145Z\",\"minAppVersionCode\":2,\"notes\":\"Code PIN de l'agent : verification fiable\",\"bundle\":{\"url\":\"bundle-1792390864.bin\",\"sha256\":\"6df1ab2c11e4e815e5aa9d246864af14aaf296f82d4261e83babacc44599a6fd\",\"size\":1225323},\"apk\":null}",
+  "signature": "WM/+TP3xQknPCx/BQNEJXxUUnN0Ha12QuMFGGGt+rIDr6CP2TOQcYX+gtBj2rVveh5GUhTPZpVaidwEJNmVR3w=="
 }
