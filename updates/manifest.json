@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792415842,\"publishedAt\":\"2026-10-19T13:17:33.958Z\",\"minAppVersionCode\":2,\"notes\":\"Historique des transactions : nouveau design (solde, entrees / sorties du jour, filtres, periode)\",\"bundle\":{\"url\":\"bundle-1792415842.bin\",\"sha256\":\"01e25e9583c6eae7621ea3caa7eea418f21baaf8fe11a1abcd47e21ee7f44340\",\"size\":1225603},\"apk\":null}",
-  "signature": "m1uhOM7RNq2J9ksDpdwPufF47TdbbyPWD35VXtGI0W2mr0QzVf0YK8CEsnhRsFuU9HZmQ3Ckxg5E5K3u5e7VcA=="
+  "payload": "{\"bundleVersion\":1792416824,\"publishedAt\":\"2026-10-19T13:33:55.405Z\",\"minAppVersionCode\":2,\"notes\":\"Historique : totaux qui suivent les filtres, resume plus lisible, contours des pastilles\",\"bundle\":{\"url\":\"bundle-1792416824.bin\",\"sha256\":\"93741162520da596930bed7e80d0ce8fcaa3a076d5a8c0c7cc1832ff55029a55\",\"size\":1225508},\"apk\":null}",
+  "signature": "er5c+Cwr/6XOV6VjAoGXT6RqHXOLSJJdbA40Dy1QwXuR/X1MoLdZyh0U+o7qVenWk3yu16VepNMeRCi4ZXKbXw=="
 }
