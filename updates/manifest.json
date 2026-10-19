@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792419199,\"publishedAt\":\"2026-10-19T14:13:30.405Z\",\"minAppVersionCode\":2,\"notes\":\"Barre de navigation : nouveau modele\",\"bundle\":{\"url\":\"bundle-1792419199.bin\",\"sha256\":\"a7c60867f6fcddd3070ca466db73a65ced50e3ec84ca0e06b92f533ceb17d9bb\",\"size\":1228482},\"apk\":null}",
-  "signature": "UA7SAJ+ttUx3/p9yGQwfPCBagKN5P6gsdt1JmjKd8tHgIzlYv9uq2Od3TZD27pJ68dL4h1RyrHw0qRg3PRdCdQ=="
+  "payload": "{\"bundleVersion\":1792420169,\"publishedAt\":\"2026-10-19T14:29:39.258Z\",\"minAppVersionCode\":2,\"notes\":\"e-Recharge : bandeau pleine largeur quand une seule puce est en mode operateur\",\"bundle\":{\"url\":\"bundle-1792420169.bin\",\"sha256\":\"b230d578b982b307e1bdb618dabf2b2be40f7addea1d1fd4d732fd0f2a6a2387\",\"size\":1226281},\"apk\":null}",
+  "signature": "9z6sqq0AfOReWCWOtLawCzdkoXlssUy3q/2MvSKPr3xlaMw7Nrvb4cA2/Hl/OhmIMGSft8QtckWPZMfyg4AERA=="
 }
