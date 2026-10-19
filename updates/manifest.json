@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792416824,\"publishedAt\":\"2026-10-19T13:33:55.405Z\",\"minAppVersionCode\":2,\"notes\":\"Historique : totaux qui suivent les filtres, resume plus lisible, contours des pastilles\",\"bundle\":{\"url\":\"bundle-1792416824.bin\",\"sha256\":\"93741162520da596930bed7e80d0ce8fcaa3a076d5a8c0c7cc1832ff55029a55\",\"size\":1225508},\"apk\":null}",
-  "signature": "er5c+Cwr/6XOV6VjAoGXT6RqHXOLSJJdbA40Dy1QwXuR/X1MoLdZyh0U+o7qVenWk3yu16VepNMeRCi4ZXKbXw=="
+  "payload": "{\"bundleVersion\":1792418222,\"publishedAt\":\"2026-10-19T13:57:13.736Z\",\"minAppVersionCode\":2,\"notes\":\"Historique : nouvelle carte solde, bande Entrees / Sorties et titre\",\"bundle\":{\"url\":\"bundle-1792418222.bin\",\"sha256\":\"c437c87e8112128089d87476599f724cc61e96f965007e41eae3fe402179236d\",\"size\":1225159},\"apk\":null}",
+  "signature": "In16XfpkePewCL4vFUGvi9mfyWX29OJMrQauOtGxaU9ylx69aWq1DnxYa7bow6lrcFaJUcz/7imn8Qe+4zi6GQ=="
 }
