@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792394886,\"publishedAt\":\"2026-10-19T07:28:14.712Z\",\"minAppVersionCode\":2,\"notes\":\"Profil : changer mon code PIN\",\"bundle\":{\"url\":\"bundle-1792394886.bin\",\"sha256\":\"12462d6f015252ac9a1551a1f4b70a31b350d19cd845a0de29e4d093aa501d77\",\"size\":1227840},\"apk\":null}",
-  "signature": "oEdf1JtzStRJOao/D56gw7kxxVLDpTlRM3FjAr7xNPyAdEggjYoj4XAmgDgoM6Edp3ukX3SIspyjdVMXa7G+3w=="
+  "payload": "{\"bundleVersion\":1792396746,\"publishedAt\":\"2026-10-19T07:59:16.236Z\",\"minAppVersionCode\":2,\"notes\":\"Codes secrets : un code par operateur\",\"bundle\":{\"url\":\"bundle-1792396746.bin\",\"sha256\":\"57f213842edef8d77babd43d5107011341207b880a1ad7271f7c1b16a77fda63\",\"size\":1224891},\"apk\":null}",
+  "signature": "bu8udfb/Spdv4Uv+cicK0j3/Nomy79lMsFL0P3PJoZg0OjUyzd9bM2MGM/gdMh01bID0zB/yoEtrQKA/AyreAw=="
 }
