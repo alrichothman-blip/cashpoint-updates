@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792418222,\"publishedAt\":\"2026-10-19T13:57:13.736Z\",\"minAppVersionCode\":2,\"notes\":\"Historique : nouvelle carte solde, bande Entrees / Sorties et titre\",\"bundle\":{\"url\":\"bundle-1792418222.bin\",\"sha256\":\"c437c87e8112128089d87476599f724cc61e96f965007e41eae3fe402179236d\",\"size\":1225159},\"apk\":null}",
-  "signature": "In16XfpkePewCL4vFUGvi9mfyWX29OJMrQauOtGxaU9ylx69aWq1DnxYa7bow6lrcFaJUcz/7imn8Qe+4zi6GQ=="
+  "payload": "{\"bundleVersion\":1792418631,\"publishedAt\":\"2026-10-19T14:04:01.186Z\",\"minAppVersionCode\":2,\"notes\":\"Nouvelle barre de navigation flottante\",\"bundle\":{\"url\":\"bundle-1792418631.bin\",\"sha256\":\"1dbb9e9f122ceaf76fe794df570fb4469ce84fa49605e0dfd618db1f5c67790a\",\"size\":1230343},\"apk\":null}",
+  "signature": "JLSt0Po0pPMOnlI9AKTc35i85T3XFTfT4585qd+IlCIZhw7Smah9X20icajjuLs0tQXu1qDEIEpQhcZ6IVjr3g=="
 }
