@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792390864,\"publishedAt\":\"2026-10-19T06:21:14.145Z\",\"minAppVersionCode\":2,\"notes\":\"Code PIN de l'agent : verification fiable\",\"bundle\":{\"url\":\"bundle-1792390864.bin\",\"sha256\":\"6df1ab2c11e4e815e5aa9d246864af14aaf296f82d4261e83babacc44599a6fd\",\"size\":1225323},\"apk\":null}",
-  "signature": "WM/+TP3xQknPCx/BQNEJXxUUnN0Ha12QuMFGGGt+rIDr6CP2TOQcYX+gtBj2rVveh5GUhTPZpVaidwEJNmVR3w=="
+  "payload": "{\"bundleVersion\":1792394886,\"publishedAt\":\"2026-10-19T07:28:14.712Z\",\"minAppVersionCode\":2,\"notes\":\"Profil : changer mon code PIN\",\"bundle\":{\"url\":\"bundle-1792394886.bin\",\"sha256\":\"12462d6f015252ac9a1551a1f4b70a31b350d19cd845a0de29e4d093aa501d77\",\"size\":1227840},\"apk\":null}",
+  "signature": "oEdf1JtzStRJOao/D56gw7kxxVLDpTlRM3FjAr7xNPyAdEggjYoj4XAmgDgoM6Edp3ukX3SIspyjdVMXa7G+3w=="
 }
