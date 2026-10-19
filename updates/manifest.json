@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792399351,\"publishedAt\":\"2026-10-19T08:42:43.264Z\",\"minAppVersionCode\":2,\"notes\":\"Codes secrets : marche avec ou sans empreinte\",\"bundle\":{\"url\":\"bundle-1792399351.bin\",\"sha256\":\"3dd021b81a116ed44bf9996ae668fb4e1f28c2d7f5904f5ddb3a21e7f9af5013\",\"size\":1225303},\"apk\":null}",
-  "signature": "2wWZgi0XgPehRrF1dOgEeH8HhTKVVLtpJ43J90T7j4rOGohIbi9XzxP95kloGztpmwNmN3eIjpL1IQPwu9J0Sw=="
+  "payload": "{\"bundleVersion\":1792415842,\"publishedAt\":\"2026-10-19T13:17:33.958Z\",\"minAppVersionCode\":2,\"notes\":\"Historique des transactions : nouveau design (solde, entrees / sorties du jour, filtres, periode)\",\"bundle\":{\"url\":\"bundle-1792415842.bin\",\"sha256\":\"01e25e9583c6eae7621ea3caa7eea418f21baaf8fe11a1abcd47e21ee7f44340\",\"size\":1225603},\"apk\":null}",
+  "signature": "m1uhOM7RNq2J9ksDpdwPufF47TdbbyPWD35VXtGI0W2mr0QzVf0YK8CEsnhRsFuU9HZmQ3Ckxg5E5K3u5e7VcA=="
 }
