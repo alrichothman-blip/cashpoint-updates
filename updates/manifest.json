@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792418631,\"publishedAt\":\"2026-10-19T14:04:01.186Z\",\"minAppVersionCode\":2,\"notes\":\"Nouvelle barre de navigation flottante\",\"bundle\":{\"url\":\"bundle-1792418631.bin\",\"sha256\":\"1dbb9e9f122ceaf76fe794df570fb4469ce84fa49605e0dfd618db1f5c67790a\",\"size\":1230343},\"apk\":null}",
-  "signature": "JLSt0Po0pPMOnlI9AKTc35i85T3XFTfT4585qd+IlCIZhw7Smah9X20icajjuLs0tQXu1qDEIEpQhcZ6IVjr3g=="
+  "payload": "{\"bundleVersion\":1792419199,\"publishedAt\":\"2026-10-19T14:13:30.405Z\",\"minAppVersionCode\":2,\"notes\":\"Barre de navigation : nouveau modele\",\"bundle\":{\"url\":\"bundle-1792419199.bin\",\"sha256\":\"a7c60867f6fcddd3070ca466db73a65ced50e3ec84ca0e06b92f533ceb17d9bb\",\"size\":1228482},\"apk\":null}",
+  "signature": "UA7SAJ+ttUx3/p9yGQwfPCBagKN5P6gsdt1JmjKd8tHgIzlYv9uq2Od3TZD27pJ68dL4h1RyrHw0qRg3PRdCdQ=="
 }
