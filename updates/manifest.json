@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792420169,\"publishedAt\":\"2026-10-19T14:29:39.258Z\",\"minAppVersionCode\":2,\"notes\":\"e-Recharge : bandeau pleine largeur quand une seule puce est en mode operateur\",\"bundle\":{\"url\":\"bundle-1792420169.bin\",\"sha256\":\"b230d578b982b307e1bdb618dabf2b2be40f7addea1d1fd4d732fd0f2a6a2387\",\"size\":1226281},\"apk\":null}",
-  "signature": "9z6sqq0AfOReWCWOtLawCzdkoXlssUy3q/2MvSKPr3xlaMw7Nrvb4cA2/Hl/OhmIMGSft8QtckWPZMfyg4AERA=="
+  "payload": "{\"bundleVersion\":1792484197,\"publishedAt\":\"2026-10-20T08:16:46.959Z\",\"minAppVersionCode\":2,\"notes\":\"Lien de telechargement de l'application dans le Profil du backoffice\",\"bundle\":{\"url\":\"bundle-1792484197.bin\",\"sha256\":\"e50006222b44ccc531579b86472aee798b95bcefd5ca087ecc12407bfba2ce12\",\"size\":1230703},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
+  "signature": "vvkqLmvwUkRDUrlhCZlFSWQeC3fVgVKf8BADKWC8gcWqw7dgbx0RyLX6U/dm16VHUc84lmKbChgZydQQ/bozRw=="
 }
