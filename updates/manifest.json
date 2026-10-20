@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792485437,\"publishedAt\":\"2026-10-20T08:37:40.709Z\",\"minAppVersionCode\":2,\"notes\":\"Lien de telechargement : effet de copie ; un seul agent par Cash Point dans le backoffice\",\"bundle\":{\"url\":\"bundle-1792485437.bin\",\"sha256\":\"5a49ab5d686630173118a93b4ef4f3588b06673f1838c43da729fd1bb0467803\",\"size\":1229599},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
-  "signature": "07o5tXqhAWlouyFmnSbgkl/y1mylCO2x2KQEqdc+D/g9Q3jf+p6TP8MzGu9zLlsIs0TIdwbpinr0wvQ5cFrAkw=="
+  "payload": "{\"bundleVersion\":1792498947,\"publishedAt\":\"2026-10-20T12:22:40.524Z\",\"minAppVersionCode\":2,\"notes\":\"Dashboard admin mobile : nouveau design et nouvelle barre de navigation\",\"bundle\":{\"url\":\"bundle-1792498947.bin\",\"sha256\":\"e66861df0bbe56c4e6b83cb30539b6e2dcf43d5b47de8369db5e85656a466a47\",\"size\":1230094},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
+  "signature": "o0m+0qjMu/hCAJ+P7reZ7yA0+xctThZZEj8bM/RPVNEpBZm+UZUbos2y3eu9vEaAeKoemA2sFhwUXV44zSuKVw=="
 }
