@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792500841,\"publishedAt\":\"2026-10-20T12:54:14.210Z\",\"minAppVersionCode\":2,\"notes\":\"Transactions admin mobile : nouveau design\",\"bundle\":{\"url\":\"bundle-1792500841.bin\",\"sha256\":\"8e4ed220837b289fd07be729b27e2f6139b3ed1f917955adf8a23bdc10b37b61\",\"size\":1227140},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
-  "signature": "NQg5X08u6FiqFZRpoPDX5KgCdyhrS+y8Vi36zwwuN5nOaUBq+nSN4Y79KSudB2c21X8Eygw/owIUl2FncdQdWw=="
+  "payload": "{\"bundleVersion\":1792503157,\"publishedAt\":\"2026-10-20T13:32:51.837Z\",\"minAppVersionCode\":2,\"notes\":\"Detail de transaction admin mobile en recu avec glissement ; avis de mise a jour visible cote admin\",\"bundle\":{\"url\":\"bundle-1792503157.bin\",\"sha256\":\"3062ae35923b98750dcd193a93c8b4d141e1dfe2c35258bdd736de3d2daa9cab\",\"size\":1232932},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
+  "signature": "fmjqnF7a5FfiYFIhbVoE7uAXrbB6qJ0y3IMDDFIS/KzIus6gi4rVyhnYeauzJV5ZfYnWXyhZaQgO9+D2Rvi4Lg=="
 }
