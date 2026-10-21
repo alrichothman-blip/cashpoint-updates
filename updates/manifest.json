@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792506091,\"publishedAt\":\"2026-10-20T14:21:42.560Z\",\"minAppVersionCode\":2,\"notes\":\"redesigne\",\"bundle\":{\"url\":\"bundle-1792506091.bin\",\"sha256\":\"46d8b40dc92a831a35c40e484e0ef58ee9d39aa8e2d6990f9371b7f0964cb991\",\"size\":1228845},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
-  "signature": "1waickYB6/hvh0KT2xNLTv3nxr0W6+wV4IOz5JtnuBZFKbNI3ulYmjC1iKGiRPHng4Yw3K+WOaYG649zn1G1tQ=="
+  "payload": "{\"bundleVersion\":1792563121,\"publishedAt\":\"2026-10-21T06:12:13.829Z\",\"minAppVersionCode\":2,\"notes\":\"Detail d'un Cash Point : nouveau design et onglet Transactions\",\"bundle\":{\"url\":\"bundle-1792563121.bin\",\"sha256\":\"1adb17a02b7dda6e929d3b9e7d0263c401dacf59f25764f95861b8b2704576af\",\"size\":1230145},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
+  "signature": "r8gMyiUtWBSLZMLHvW6fcD3mcQj2trs5mCcoTvI4ABmDmcpFSbbtqbRhf4nocozgZM6epadfK1ROkGNvJnuPBQ=="
 }
