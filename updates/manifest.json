@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792564380,\"publishedAt\":\"2026-10-21T06:33:10.937Z\",\"minAppVersionCode\":2,\"notes\":\"responsive sur tout les appareils et autorisation\",\"bundle\":{\"url\":\"bundle-1792564380.bin\",\"sha256\":\"95ac95060840965e998e9a7c5d58f725d4b9a36438073791b6477669ed21ead7\",\"size\":1235129},\"apk\":{\"versionCode\":3,\"versionName\":\"1.1.1\",\"url\":\"gplus.apk\",\"sha256\":\"8544ddcea6a93659b6076b2810a499acd86002df756203d8875de3b6c84088c1\",\"size\":52717146}}",
-  "signature": "OGidYhZak4jruX7Mtbzpdp2BRLJtaNo5XgKzq2GapprxAw7WyiNTycKJF2jUmrqbF42LbhC+L7xerz3/ELJ9kQ=="
+  "payload": "{\"bundleVersion\":1792566494,\"publishedAt\":\"2026-10-21T07:08:27.032Z\",\"minAppVersionCode\":2,\"notes\":\"Autorisations au premier lancement, barre de navigation pleine largeur, SMS MVola, APK 1.2.0\",\"bundle\":{\"url\":\"bundle-1792566494.bin\",\"sha256\":\"251fd49e024d7670041375da1536583ae2fe18de2586b02da2ca0248f7fc0276\",\"size\":1234426},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "cppiJ8vQMID3ZSuDUlA1v+qBDzVMWjiArEsPQRZajQ+4RTphhzijnn93e3WIXCmUM3xjGa/nR3vrbVTEhyQeug=="
 }
