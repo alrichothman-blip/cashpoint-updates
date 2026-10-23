@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792745289,\"publishedAt\":\"2026-10-23T08:48:19.230Z\",\"minAppVersionCode\":2,\"notes\":\"Graphique des commissions par jour avec filtres (mois, dates, Cash Point, operateur) sur le tableau de bord\",\"bundle\":{\"url\":\"bundle-1792745289.bin\",\"sha256\":\"860c7a3be1a7908210d0e8fbf497774e8a40d4f92db1a7e1462e2c4859cf9ba8\",\"size\":1247703},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "f9u/dUqvkfmhV7jZn+LoxXKMqQpn2MSUKjSir2xgrEJ2pJDV5vRJwAvXAbMUk88CLx1Mo1e+D0P6eIVzlzGBGg=="
+  "payload": "{\"bundleVersion\":1792745785,\"publishedAt\":\"2026-10-23T08:56:35.553Z\",\"minAppVersionCode\":2,\"notes\":\"Tableau de bord : carte Commissions retiree, le graphique des commissions reste\",\"bundle\":{\"url\":\"bundle-1792745785.bin\",\"sha256\":\"1c45597d333889bf4efb60b65d52d34e9672b8b8699fd62acda48ce55f707225\",\"size\":1246806},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "ASEGmP94cIgsiSjtcQ5K9blyPz6f3nwDz+9lh8e42mqiBvcpoJmR5paVTx/EY4Hpw9uLLCr1vKMeLx9F5MICmQ=="
 }
