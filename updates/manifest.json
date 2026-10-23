@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792566494,\"publishedAt\":\"2026-10-21T07:08:27.032Z\",\"minAppVersionCode\":2,\"notes\":\"Autorisations au premier lancement, barre de navigation pleine largeur, SMS MVola, APK 1.2.0\",\"bundle\":{\"url\":\"bundle-1792566494.bin\",\"sha256\":\"251fd49e024d7670041375da1536583ae2fe18de2586b02da2ca0248f7fc0276\",\"size\":1234426},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "cppiJ8vQMID3ZSuDUlA1v+qBDzVMWjiArEsPQRZajQ+4RTphhzijnn93e3WIXCmUM3xjGa/nR3vrbVTEhyQeug=="
+  "payload": "{\"bundleVersion\":1792743848,\"publishedAt\":\"2026-10-23T08:24:22.001Z\",\"minAppVersionCode\":2,\"notes\":\"Commissions dans le backoffice (total, par operateur Orange et Yas, par Cash Point, verification des operations) ; fluidite des longues listes\",\"bundle\":{\"url\":\"bundle-1792743848.bin\",\"sha256\":\"377dd756560c7a5b212630533ebeafbeda2e76b0ffefa096742b78a5f439f297\",\"size\":1241883},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "xZtXENq8BfZCHXzRAo40oMGv+yj4EQ+R8BqmAmw4lRdWjAGgNZPeKMmjqNzCqUtsgJccZJIADV2a3aZ9bTL3TQ=="
 }
