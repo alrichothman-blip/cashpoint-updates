@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792747512,\"publishedAt\":\"2026-10-23T09:25:22.915Z\",\"minAppVersionCode\":2,\"notes\":\"Graphique des commissions redessine (barres par operateur, filtres, legende)\",\"bundle\":{\"url\":\"bundle-1792747512.bin\",\"sha256\":\"6c5b150f206d1dfa32808903b54e724b40416a7f2c2c4c3bd0a2141d97333fa4\",\"size\":1249767},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "7S/ci3ATDezVj3jsGNl3eU550/Zh0HyPy1ZRNCrVXy5Xw2mjqi73DC7oEQd1VULcYl6GaeX1oCOWKV0DkTVSnQ=="
+  "payload": "{\"bundleVersion\":1792748498,\"publishedAt\":\"2026-10-23T09:41:49.164Z\",\"minAppVersionCode\":2,\"notes\":\"Tableau de bord aligne sur la maquette (graphique des commissions, carte bleue, mise en page)\",\"bundle\":{\"url\":\"bundle-1792748498.bin\",\"sha256\":\"c364f41950fb39a32f830394434de7b45f6e98a6127fefb0a4c8f8257f472730\",\"size\":1251313},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "CaqN2h6oLHW08aasSJc30jNcigaMV6NeTetE8YlY7wRVrrbCu8iZJcNYlRU4gMmnTtSujf8DthZHt1+ppNiTSA=="
 }
