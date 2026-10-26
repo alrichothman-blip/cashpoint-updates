@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1792749579,\"publishedAt\":\"2026-10-23T09:59:50.428Z\",\"minAppVersionCode\":2,\"notes\":\"Evolution des commissions : nouvelle courbe avec moyenne, pic et chiffres cles\",\"bundle\":{\"url\":\"bundle-1792749579.bin\",\"sha256\":\"8019ba64a60750c6b2e48d1f6b6e71e285c91966f44a5b40790dbcd6d5db9836\",\"size\":1246836},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "dDfN4Ud6DvmDa9QBa7HBCe3N9BsXu4UPG1HQCDo7dWxCb3aizRZSZAJe8SKeBqBc/ZvEy2kwrtYtnf7+3cY/Tw=="
+  "payload": "{\"bundleVersion\":1793004103,\"publishedAt\":\"2026-10-26T08:41:55.752Z\",\"minAppVersionCode\":2,\"notes\":\"Mise a jour de securite du serveur (PHP 8.5.12) - aucun changement visible dans l'application\",\"bundle\":{\"url\":\"bundle-1793004103.bin\",\"sha256\":\"9142362b34cbeffebbef9de3876981db2eff5dcb3d172a52885f99bf24004aaa\",\"size\":1247334},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "lb43BMCVQJXy9LsNLk2r80CbErIBef11Mg9jnN0Viem9Ju03YiKvXD36hF29f7781fN6XeTZbQTLtu91IyjGOQ=="
 }
