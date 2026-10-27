@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793106150,\"publishedAt\":\"2026-10-27T13:02:40.450Z\",\"minAppVersionCode\":2,\"notes\":\"Detail d'un Cash Point : historique des transactions comme avant, avec la colonne Commission\",\"bundle\":{\"url\":\"bundle-1793106150.bin\",\"sha256\":\"7b7c8e9221e6d1dadef4031c1fae5c560baec4e212b5a22a8e0d244b5fc528c2\",\"size\":1246906},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "Nr+HuBCpwICfcFFbGqw1S+UaxGTf5PZClLDIT4EgKzvMXZLJ1Q7+mM9d8vDQIxyv93YbOlq753/wLOBJT0NhwA=="
+  "payload": "{\"bundleVersion\":1793106412,\"publishedAt\":\"2026-10-27T13:07:03.346Z\",\"minAppVersionCode\":2,\"notes\":\"Detail d'un Cash Point : agents comme avant, bloc Commissions retire\",\"bundle\":{\"url\":\"bundle-1793106412.bin\",\"sha256\":\"1503e3d6d8609511eb5ed0c68026985643ca66bf229497a204ad557aaef137bf\",\"size\":1247196},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "VgQRu1iozI5HSBDlTeCiUBnkBy5sjWJMdDSznijewp1c94ujtYlKSr3aun6Q59IwRDpysOEgdp/vrdF2AQvYYQ=="
 }
