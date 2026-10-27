@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793086184,\"publishedAt\":\"2026-10-27T07:29:54.709Z\",\"minAppVersionCode\":2,\"notes\":\"Tableau de bord administrateur : titre en francais et courbe des commissions qui ne descend plus sous zero\",\"bundle\":{\"url\":\"bundle-1793086184.bin\",\"sha256\":\"b9ed28dc30c61c90767845c742adb627149bd79ee3024cf2b3143146e4448745\",\"size\":1246612},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "quPwI2zDwX65juPh+O/lUAdvK6N3JxYPQY7GBmwHPBwOfDC1HZ9/E+7ZEbC71oGuDpetL11avXsj/ld8crOZxg=="
+  "payload": "{\"bundleVersion\":1793086507,\"publishedAt\":\"2026-10-27T07:35:18.339Z\",\"minAppVersionCode\":2,\"notes\":\"Graphique des commissions : vrais logos des operateurs dans le filtre\",\"bundle\":{\"url\":\"bundle-1793086507.bin\",\"sha256\":\"edfdc5ea1aca804084346ece09cd023f5164d93414dee6a86b73275a8b105d80\",\"size\":1244283},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "NF7jBRn9gZkuoTBHvKC2aqfCqbnt7NDOlrUUUbZUN7JCdz6dmC0mVzmJlURocK9gqAXuZ5SKxbrJZK+XI4kstw=="
 }
