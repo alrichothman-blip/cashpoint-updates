@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793109362,\"publishedAt\":\"2026-10-27T13:56:12.749Z\",\"minAppVersionCode\":2,\"notes\":\"Detail d'un Cash Point : vrais logos, sans fleches, filtres en noir\",\"bundle\":{\"url\":\"bundle-1793109362.bin\",\"sha256\":\"c0003cf5ca0a26a1d9bd7fdf0870c03da7b35d0289dd3d1aba2106437ce1ddc0\",\"size\":1249826},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "RXhS/3bq3HWeVFV0jF9ZBv25RoAkLzePyViFWADiNV0S/QlWGYdTygQWgvtIc3n9lhlI7lIAUwsJkgFPMer5NA=="
+  "payload": "{\"bundleVersion\":1793109648,\"publishedAt\":\"2026-10-27T14:00:58.919Z\",\"minAppVersionCode\":2,\"notes\":\"Coherence admin : vrais logos, sans fleches, filtres en noir, dates en clair\",\"bundle\":{\"url\":\"bundle-1793109648.bin\",\"sha256\":\"105a194c9e02ec46cf688a965d57f547eaf5ff6e962bbf9040eabc3070aafa5e\",\"size\":1247544},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "2I/Dvg1CzkEpjzS57dXTvPJHWvKGY+rRRMI+SFRhAPd/B1AX6Dj3d+9Cx5wYPhG2riqhofpHBZoVimeQlmURLQ=="
 }
