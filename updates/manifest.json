@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793107659,\"publishedAt\":\"2026-10-27T13:27:50.100Z\",\"minAppVersionCode\":2,\"notes\":\"Transactions admin : depots et retraits epures, filtres en noir, export Excel, vrais logos, colonne commission\",\"bundle\":{\"url\":\"bundle-1793107659.bin\",\"sha256\":\"9d2eec0d6729a228113aa57e19e7b05056162c84dff7fbdc45fdb8822acbb578\",\"size\":1246109},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "8nhrmo23KH7qFQwRAY4pZYvSdT213S6nbiZFj+BZwimMQ95ZFeZGbz0v98dIya16v5xJ6u8bCgSdF/pkuF+CLQ=="
+  "payload": "{\"bundleVersion\":1793108381,\"publishedAt\":\"2026-10-27T13:39:52.084Z\",\"minAppVersionCode\":2,\"notes\":\"Transactions admin : plus epure, vrai logo Excel\",\"bundle\":{\"url\":\"bundle-1793108381.bin\",\"sha256\":\"d740c3d625e15eb29cb5f0483554f0f28049e008526a71d10828d7f99705dabe\",\"size\":1250036},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "AdYH2160OPJ02eaVHWl4gYZScckDVQVlOkq/0wXwRFsjJxjTdqJALjtYRj4TcTvRhhfKPsUoFH/eEHrZtGSKNw=="
 }
