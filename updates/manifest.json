@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793111265,\"publishedAt\":\"2026-10-27T14:27:55.937Z\",\"minAppVersionCode\":2,\"notes\":\"Transactions admin : libelles Depots et Retraits plus grands\",\"bundle\":{\"url\":\"bundle-1793111265.bin\",\"sha256\":\"2f6861f6a571cdd2aa48544c2e8faed4f5009adb8a92e7d3fcdb9f6d2940b2a9\",\"size\":1248105},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "svcbZga4eaiwQdHdcJwA6yXEm2laSorajFkvWlvO3pTlI9pUpFjJYizg4fmYYgpwRwpOzYYurUguiG9zRMA6dQ=="
+  "payload": "{\"bundleVersion\":1793111653,\"publishedAt\":\"2026-10-27T14:34:23.367Z\",\"minAppVersionCode\":2,\"notes\":\"Detail de transaction : degrade du tableau de bord et commission\",\"bundle\":{\"url\":\"bundle-1793111653.bin\",\"sha256\":\"aafbbffae1fe8c29d3073df6fa54bacd46c397e6c7e2bdc6c140d4ff543eb359\",\"size\":1247864},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "Gp569DpRdT91+qrkxfAxOE0EXoPHmhXH9awDGOMSUr1gYCG8DY2+1n+tjUmnd30To3V+nKzyBxQvsC5flGGONg=="
 }
