@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793273816,\"publishedAt\":\"2026-10-29T11:37:07.287Z\",\"minAppVersionCode\":2,\"notes\":\"Application agent : commissions par transaction et total filtrable par operateur\",\"bundle\":{\"url\":\"bundle-1793273816.bin\",\"sha256\":\"26ce5ec2a9971288c01be8652fff913bb2d2eaf0d2e9f2662776b096075c9ad6\",\"size\":1249589},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "3Wh3GAkxgAXnoZNB7dwzmDIPKIFq8QE1gghSmAqY40zLrG/BAxGjU/8GnD0gpyYCRr2M50E2kD/wCFJaMK50qw=="
+  "payload": "{\"bundleVersion\":1793283373,\"publishedAt\":\"2026-10-29T14:16:23.591Z\",\"minAppVersionCode\":2,\"notes\":\"redesign harmonieuse\",\"bundle\":{\"url\":\"bundle-1793283373.bin\",\"sha256\":\"6b0492541acfb022df38109c40d2988c14ac5e21bb5438e4fc0047c818e401c4\",\"size\":1244390},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "nstJzYc0v6onJ7nA6KS102xJFsigaBI4kXeaRLqO4DMyrv9uZaFHegUGzOanCrYRtRKjKgfd1SMgujTaeHS40g=="
 }
