@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1793283373,\"publishedAt\":\"2026-10-29T14:16:23.591Z\",\"minAppVersionCode\":2,\"notes\":\"redesign harmonieuse\",\"bundle\":{\"url\":\"bundle-1793283373.bin\",\"sha256\":\"6b0492541acfb022df38109c40d2988c14ac5e21bb5438e4fc0047c818e401c4\",\"size\":1244390},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "nstJzYc0v6onJ7nA6KS102xJFsigaBI4kXeaRLqO4DMyrv9uZaFHegUGzOanCrYRtRKjKgfd1SMgujTaeHS40g=="
+  "payload": "{\"bundleVersion\":1793284591,\"publishedAt\":\"2026-10-29T14:36:41.458Z\",\"minAppVersionCode\":2,\"notes\":\"Dashboard admin mobile : carte sombre Montant total\",\"bundle\":{\"url\":\"bundle-1793284591.bin\",\"sha256\":\"6fa742d66ffe9585bb861915ef7db69aef71c9257de57ac888f04920379e56b8\",\"size\":1244736},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "GoA7+Vr7DSJmCVaYPXcRMd4mw/RR8p9DMA8WR0iYB63zwWOU/ehUpFoyxrDER/miRwY6KlRn3vz2O6rDxMUcnw=="
 }
