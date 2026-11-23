@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1795422904,\"publishedAt\":\"2026-11-23T08:35:16.345Z\",\"minAppVersionCode\":2,\"notes\":\"Codes secrets : activer l'empreinte pour un code déjà enregistré\",\"bundle\":{\"url\":\"bundle-1795422904.bin\",\"sha256\":\"630f725f54b823d32354e60ffb80ffb0814a3387c005ce6e17ebed09bc662f8d\",\"size\":1245673},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "W+C007uyVm9PaFeC5YPilgoXalWJJ/EvxrI23X0hVxJwMPSUi9Rv0SZcu3YtqsSktCJCq0cdKXI5XeOZnwDWbg=="
+  "payload": "{\"bundleVersion\":1795425145,\"publishedAt\":\"2026-11-23T09:12:32.967Z\",\"minAppVersionCode\":2,\"notes\":\"Premier lancement : guide pour changer le code secret après les autorisations\",\"bundle\":{\"url\":\"bundle-1795425145.bin\",\"sha256\":\"4203515f9ea31b1e6c94f552d7ca748cad3d66f64a51cb84578023b785c80691\",\"size\":1248168},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "vR6WLlYnyPdpaT1oyiBDeJ4YUEXlXyHB23LyWEayUVnFco9fwMDrLOB479mJ3IMPmMM+Py3z+ATkieE3y3WdmA=="
 }
