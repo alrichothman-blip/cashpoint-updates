@@ -1,4 +1,4 @@
 {
-  "payload": "{\"bundleVersion\":1795418852,\"publishedAt\":\"2026-11-23T07:27:42.815Z\",\"minAppVersionCode\":2,\"notes\":\"mise à jour des cote UI\",\"bundle\":{\"url\":\"bundle-1795418852.bin\",\"sha256\":\"885c4adb15e97574942f289daeb8b3d9e90bf43b8238f53213ef9d85f88b624a\",\"size\":1246104},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
-  "signature": "lK4JTDrNZeMihCDhY5PCJQxnkoO7fZFWQgtfm1SMQzCdMEmO65V3xDIcwnGAwiuTjGvVclSedKW4uVq1BIp2RQ=="
+  "payload": "{\"bundleVersion\":1795420225,\"publishedAt\":\"2026-11-23T07:50:36.380Z\",\"minAppVersionCode\":2,\"notes\":\"correction des bugs lie au emprunte\",\"bundle\":{\"url\":\"bundle-1795420225.bin\",\"sha256\":\"810c46b2236b3ef31da402e6ba902a5f85eceefcf4861b4a9be699b9f84322ba\",\"size\":1245705},\"apk\":{\"versionCode\":4,\"versionName\":\"1.2.0\",\"url\":\"gplus.apk\",\"sha256\":\"f9618a4133e061bd56691b728bf8a40004c1e29def0469d97ea19614a5789cbd\",\"size\":52981358}}",
+  "signature": "oSY9hEqOYnHK0Bb9tktLAxsL+PLrh79ktwiQZ4HSaAUZhX5ZQmd5wgIXBFakBiuomjexBfKFIgwA9edoz7kRpQ=="
 }
